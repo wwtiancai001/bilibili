@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bilibili-sdk-go
 
 BiliBili Open API & SDK written in Go
@@ -92,3 +93,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+=======
+# bilibili
+>>>>>>> bd401fa4d3b10e5835a55356b5fca37b0671d86d
